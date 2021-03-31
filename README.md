@@ -1,2 +1,6 @@
 # stablecoins
-stablecoins smart contracts
+
+Repository containing smart contracts used by CoinMode
+
+
+## License: MIT
